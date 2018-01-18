@@ -4,7 +4,7 @@
 * item1
 * item2
 
-## My bar
+##วิธัีการทำเริ่มต้นออกแบบเว็บ
 [LINK MD] (https://github.com/5835512035/foo/edit/master/README.md)
 * mkdir foo
 * cd foo 
