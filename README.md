@@ -1,9 +1,5 @@
 # foo project
 
-## My foo
-* item1
-* item2
-
 ## วิธีการทำเริ่มต้นออกแบบเว็บ
 * ลิงค์ในการทดสอบ[LINK MD] (https://github.com/5835512035/foo/edit/master/README.md)
 
@@ -19,7 +15,7 @@
 * git commit -m "first commit" ใช้เพื่อบันทึกความเปลี่ยนแปลงที่เกิดขึ้นสู่ local repo
 * git remote add origin https://github.com/5835512035/foo.git
 * git remote -v 
-* git push -u origin master
+* git push -u origin masterคำสั่งเพื่อส่งการเปลี่ยนแปลงของ master ที่ต้องการไปยัง remote repository
 * Username for 'https://github.com': 5835512035 ใส่ชื่อ
 * Password for 'https://5835512035@github.com': ใส่password
 
